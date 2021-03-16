@@ -1,3 +1,3 @@
 # hello-world
 
-This is the first repo in the course "OPEN-SOURCE WORKSHOP".
+This is the first repo in the course "OPEN-SOURCE WORKSHOP"!
